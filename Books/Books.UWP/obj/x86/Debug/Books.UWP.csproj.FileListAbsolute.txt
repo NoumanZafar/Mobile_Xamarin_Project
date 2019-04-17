@@ -302,3 +302,7 @@ C:\Users\Nouman\source\repos\Books\Books\Books.UWP\obj\x86\Debug\ProjectArchitec
 C:\Users\Nouman\source\repos\Books\Books\Books.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758552200000000.json
 C:\Users\Nouman\source\repos\Books\Books\Books.UWP\bin\x86\Debug\Newtonsoft.Json.dll
 C:\Users\Nouman\source\repos\Books\Books\Books.UWP\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Users\Nouman\source\repos\Books\Books\Books.UWP\bin\x86\Debug\Plugin.Permissions.dll
+C:\Users\Nouman\source\repos\Books\Books\Books.UWP\bin\x86\Debug\Plugin.Media.dll
+C:\Users\Nouman\source\repos\Books\Books\Books.UWP\obj\x86\Debug\Plugin.Permissions.pri.xml
+C:\Users\Nouman\source\repos\Books\Books\Books.UWP\obj\x86\Debug\Plugin.Media.pri.xml

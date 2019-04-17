@@ -119,6 +119,7 @@
         <StackLayout x:Name="slButtons" Orientation="Horizontal" Margin="0,2" Grid.Row="2" Grid.Column="1">
             <Button x:Name="btnSaveFile" Text="Save" Style="{StaticResource ButtonStyle}" Command="{Binding SaveListCommand}"/>
             <Button x:Name="btnDeleteOne" Text="Delete" Style="{StaticResource ButtonStyle}" Command="{Binding DeleteFromListCommand}" CommandParameter="{Binding SelectedDog}"/>
+            <Button x:Name="btnCamera" Text="Camera" Style="{StaticResource ButtonStyle}" Clicked="BtnCamera_Clicked"/>
         </StackLayout>
 
         <Image x:Name="imgMainPage" Grid.Row="3" Grid.Column="1" Source="books.jpg" VerticalOptions="End"/>
